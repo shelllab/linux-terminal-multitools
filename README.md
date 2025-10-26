@@ -48,6 +48,3 @@ The script uses the `colorama` module to add colors to terminal output, enhancin
 
 5. **Infinite Loop**:
    - The script runs in an infinite loop (`while True`), allowing the user to input commands continuously without needing to restart the program.
-
-## Sample Output:
-
